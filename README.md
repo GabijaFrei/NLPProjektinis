@@ -1,2 +1,4 @@
 # NLPProjektinis
 grupes projektinio kodas
+
+LINKAS I DUOMENIS: https://www.kaggle.com/datasets/gpreda/bbc-news?fbclid=IwY2xjawOQOMpleHRuA2FlbQIxMABicmlkETBDaFpId3NEN215aG00QzFRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjOlTYzWzJkAJBgbbxztiW_8hTujVwSzshR7Euf2B6NHBgNppxBv4mgvkfGQ_aem_Qvwrn-Ji0pY_5vvhOf4Peg
