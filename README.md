@@ -1,0 +1,2 @@
+# NLPProjektinis
+grupes projektinio kodas
